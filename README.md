@@ -18,10 +18,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [MediAssist](https://github.com/pkirimi/mediassist-kenya) | AI clinical decision support — RAG over medical guidelines | Python · LangChain · Pinecone · OpenAI |
-| [Repro Health Chatbot](./repro-health-chatbot) | Maternal health AI for East African users | Python · LLM APIs · Streamlit |
-| [RAG Document Q&A](./rag-document-qa) | Query any PDF with natural language | LangChain · FAISS · FastAPI |
-| [AI Research Agent](./ai-research-agent) | Multi-agent system for automated research | LangGraph · CrewAI · Python |
-| [LLM Evaluation Dashboard](./llm-eval-dashboard) | Test LLM outputs for accuracy and hallucination | Python · Streamlit · OpenAI Evals |
+
 
 ---
 
@@ -32,7 +29,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+
 
 ---
 

@@ -1,4 +1,4 @@
-# Purity Kirimi — AI Engineer 🤖
+# Purity Kirimi — AI Product Engineer
 
 > Building LLM applications, RAG systems, and conversational AI from Nairobi, Kenya 🇰🇪
 
@@ -6,10 +6,10 @@
 
 ## 🔧 What I Build
 
-- **RAG Pipelines** — connecting LLMs to real data, not just training data
-- **Conversational AI** — multi-turn chatbots with memory and context management
-- **AI-Powered Products** — end-to-end, from idea to deployed application
-- **Healthcare AI** — domain-specific AI for clinical and health contexts
+- **RAG Pipelines**- connecting LLMs to real data, not just training data
+- **Conversational AI** - multi-turn chatbots with memory and context management
+- **AI-Powered Products** - end-to-end, from idea to deployed application
+- **Healthcare AI** - domain-specific AI for clinical and health contexts
 
 ---
 
